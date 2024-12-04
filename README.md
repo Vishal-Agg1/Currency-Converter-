@@ -15,7 +15,7 @@ This is a currency converter application built with React, Vite, and Tailwind CS
 To get started with the project, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/Vishal-Agg1/Currency-Converter-.git
 cd currency-converter
 npm install
 ```
